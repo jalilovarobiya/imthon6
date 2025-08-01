@@ -23,7 +23,7 @@ class _OnboardingBodyState extends State<OnboardingBody>
     super.initState();
     _controller = AnimationController(
       vsync: this,
-      duration: Duration(seconds: 2),
+      duration: Duration(seconds: 5),
     );
 
     _leftTopAnimation = Tween<double>(

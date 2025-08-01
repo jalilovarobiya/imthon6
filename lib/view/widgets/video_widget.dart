@@ -69,7 +69,9 @@ class _VideoWidgetState extends State<VideoWidget> {
                           child: Icon(Icons.play_arrow, size: 50),
                         ),
                       )
-                    : Center(child: CircularProgressIndicator()),
+                    : Center(
+                        child: CircularProgressIndicator(color: Colors.white),
+                      ),
               ),
       ),
     );
