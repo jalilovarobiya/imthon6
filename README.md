@@ -1,3 +1,4 @@
 # imthon6
 
-A new Flutter project.
+[YouTube videosini ko‘rish](https://www.youtube.com/shorts/xOUCw7Z46eY)
+
